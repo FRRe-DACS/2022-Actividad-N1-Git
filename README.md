@@ -13,13 +13,13 @@ Create a new repository on the command line
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/FRRe-DACS/Actividad-N1-GIT.git
+git remote add origin *url-del-repo*
 git push -u origin master
 ```
 …or push an existing repository from the command line
 
 ```
-git remote add origin https://github.com/FRRe-DACS/Actividad-N1-GIT.git
+git remote add origin *url-del-repo*
 git push -u origin master
 ```
 Git Basic Commands Página de soporte de Git con ayuda https://git-scm.com/docs/ https://git-scm.com/docs/gittutorial Más info sobre commandos básicos en Attlasian https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
